@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/419748461279666809/1524b2f452b84cb89f5a1e2c14157512/artifacts
+end_time: 1786654838541
+entry_point_name: ''
+experiment_id: '419748461279666809'
+lifecycle_stage: active
+run_id: 1524b2f452b84cb89f5a1e2c14157512
+run_name: amusing-quail-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786654836650
+status: 3
+tags: []
+user_id: ubuntu
